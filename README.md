@@ -7,7 +7,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaquesene)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Habilidades e Tecnologias do meu dia 
-###sene
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
