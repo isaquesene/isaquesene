@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaque-luis-sene-1532a3194)
 
-![IsaqueSene GitHub stats](https://github-readme-stats.vercel.app/api?username=isaquesene&show_icons=true&theme=dark)
+![IsaqueSene GitHub stats](https://github-readme-stats.vercel.app/api?username=isaquesene&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaquesene)](https://github.com/anuraghazra/github-readme-stats)
 
