@@ -6,6 +6,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaquesene)](https://github.com/anuraghazra/github-readme-stats)
 
+```JavaScript
+const IsqueSene = {
+  nome: "ISAQUE SENE",
+  Area: "DESENVOLVIMENTO WEB",
+  Linguagens: ["Php", "JavaScript", "React", "Angular"],
+};
+```
+
 ## Habilidades e Tecnologias do meu dia 
 
 <div style="display: inline_block"><br/>
