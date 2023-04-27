@@ -8,7 +8,7 @@
 </div>
 
 ```JavaScript
-const IsqueSene = {
+const IsaqueSene = {
   nome: "ISAQUE SENE",
   Area: "DESENVOLVIMENTO WEB",
   Linguagens: ["Php", "JavaScript", "React", "Angular"],
